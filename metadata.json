@@ -1,0 +1,6 @@
+{
+  "name": "Arraylogic CRM",
+  "description": "Comprehensive client relationship management system for Arraylogic Software with lead tracking, employee assignment, follow-ups, CSV/Excel import-export, and Google Drive integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
